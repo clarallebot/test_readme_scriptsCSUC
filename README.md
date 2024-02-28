@@ -16,4 +16,4 @@ En aquest repositori el [Consorci de Serveis Universitaris de Catalunya (CSUC)](
 
 ## Contacte
 
-If you have questions or comments about these scripts open an issue or send an e-mail to <aco@csuc.cat>.
+Si teniu preguntes o comentaris sobre aquests scripts obriu una issue o envieu un correu electrònic a <aco@csuc.cat>.
