@@ -1,3 +1,6 @@
+[![ca](https://img.shields.io/badge/lang-ca-yellow.svg)](https://github.com/clarallebot/test_readme_scriptsCSUC/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/clarallebot/test_readme_scriptsCSUC/blob/main/README.en.md)
+
 # RDR-scripts
 
 En aquest repositori el [Consorci de Serveis Universitaris de Catalunya (CSUC)](https://www.csuc.cat/ca) publica scripts que les institucions i els usuaris del [Repositori de Dades de Recerca](https://dataverse.csuc.cat/) poden fer servir per realitzar tasques de forma automatitzada. Tots els scripts requereixen usar l'[API de Dataverse](https://guides.dataverse.org/en/latest/api/).
