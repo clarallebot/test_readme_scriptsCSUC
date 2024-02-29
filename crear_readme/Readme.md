@@ -1,4 +1,4 @@
-#crear_readme
+# crear_readme
 
 # Script per crear un fitxer Readme d'un dataset a Dataverse
 Per a qualsevol consulta sobre el codi, poseu-vos en contacte amb rdr-contacte@csuc.cat
