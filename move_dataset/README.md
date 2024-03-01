@@ -25,6 +25,6 @@ Assegureu-vos que estan instal·lades les següents llibreries:
 
 2. **Execució:**
     - Executeu el script després de proporcionar els valors d'entrada necessaris.
-    - El script intentarà moure el conjunt de dades al dataverse especificat.
+    - El script intentarà moure el conjunt de dades a la instància especificada.
     - Mostrarà un missatge d'èxit o de fracàs segons el resultat de l'operació.
 
