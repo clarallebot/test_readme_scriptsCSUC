@@ -21,7 +21,7 @@ Assegureu-vos que estan instal·lades les següents llibreries:
 1. **Valors d'Entrada:**
     - DOI: Introduïu el DOI del conjunt de dades.
     - Token: Proporcioneu el token API per a l'autenticació.
-    - Alias: Especifiqueu l'alias del dataverse de destinació.
+    - Alias: Especifiqueu l'alias de la instància de destinació.
 
 2. **Execució:**
     - Executeu el script després de proporcionar els valors d'entrada necessaris.
