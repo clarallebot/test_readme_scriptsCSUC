@@ -1,4 +1,4 @@
-### Script de Moviment de Conjunts de Dades
+### Script per Moure Conjunts de Dades
 
 **Nota:** No modifiqueu aquest document. Si cal realitzar modificacions, feu-ne una còpia. Per a qualsevol consulta sobre el codi, contacteu amb rdr-contacte@csuc.cat.
 
