@@ -4,7 +4,7 @@
 
 ## Objectiu del Script
 
-Aquest script facilita el moviment d'un conjunt de dades d'un dataverse a un altre a Dataverse.
+Aquest script facilita el moviment d'un conjunt de dades d'una instància a una altra instància.
 
 ## Descripció
 
