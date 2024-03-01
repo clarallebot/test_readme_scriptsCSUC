@@ -8,7 +8,7 @@ Aquest script facilita el moviment d'un conjunt de dades d'una instància a una 
 
 ## Descripció
 
-El script mou un conjunt de dades a un dataverse diferent utilitzant el DOI, el token API i l'alias del dataverse de destinació proporcionats. Es comunica amb l'API de Dataverse per recuperar la informació del conjunt de dades i realitzar l'operació de moviment. En acabar, proporciona feedback sobre l'èxit o el fracàs de l'operació.
+El script mou un conjunt de dades a una instància diferent utilitzant el DOI, el token API i l'alias del dataverse de destinació proporcionats. Es comunica amb l'API de Dataverse per recuperar la informació del conjunt de dades i realitzar l'operació de moviment. En acabar, proporciona feedback sobre l'èxit o el fracàs de l'operació.
 
 ## Requeriments
 
