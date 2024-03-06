@@ -1,5 +1,5 @@
 [![ca](https://img.shields.io/badge/lang-ca-blue.svg)](https://github.com/clarallebot/test_readme_scriptsCSUC/blob/main/README.md)
-[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/clarallebot/test_readme_scriptsCSUC/blob/main/README.en.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/clarallebot/test_readme_scriptsCSUC/blob/main/README_en.md)
 
 # RDR-scripts
 
